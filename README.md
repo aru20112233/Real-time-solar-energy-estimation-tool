@@ -9,6 +9,10 @@ The Solar Energy Estimation Tool is a Python-based application designed to calcu
 - **Cost Savings Estimation**: Estimates potential cost savings on electricity bills by switching to solar energy based on user-provided electricity rates.
 - **Interactive GUI**: Provides a user-friendly PyQt5-based interface for users to input their location, area, and electricity rate, visualizing results in real-time.
 
+## Features coming in future
+- **Optimization**: Using gurobipy, I will optimize the program to get minimum number of solar panels required to satisfy consumers usage.
+- **EV & LPG tool**: Similar tool for electric vehicles and LPG where users budget will be minimized according to inputs.
+
 ## Technologies Used
 - Python
 - Libraries:
