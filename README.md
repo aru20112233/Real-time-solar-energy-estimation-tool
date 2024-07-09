@@ -26,7 +26,7 @@ The Solar Energy Estimation Tool is a Python-based application designed to calcu
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/your/repository.git
+git clone https://github.com/aru20112233/Real-time-solar-energy-estimation-tool.git
 ```
 2. Install dependencies:
 ```bash
